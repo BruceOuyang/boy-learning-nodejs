@@ -1,0 +1,18 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "description": "Learning from https://www.youtube.com/watch?v=vQjiN8Qgs3c&index=1&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
